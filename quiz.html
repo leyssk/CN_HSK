@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="lo">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ເກມ Quiz HSK - TC Leyssk</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="app-header">
+        <div class="header-content">
+            <div class="logo-area" onclick="location.href='index.html'" style="cursor:pointer;">
+                <span class="logo-emoji">🐼</span>
+                <h2>TC Leyssk HSK</h2>
+            </div>
+            <nav class="desktop-nav">
+                <a href="index.html"><i class="fa-solid fa-house"></i> ໜ້າຫຼັກ</a>
+                <a href="vocab.html"><i class="fa-solid fa-book"></i> ຄຳສັບ HSK</a>
+                <a href="quiz.html" class="active"><i class="fa-solid fa-gamepad"></i> ເກມ Quiz</a>
+                <a href="about.html"><i class="fa-solid fa-circle-info"></i> ກ່ຽວກັບ</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="app-container">
+        <div class="quiz-box">
+            <h2>🎮 ເກມທົດສອບຄວາມຈຳ HSK</h2>
+            <p>ທົດສອບຄວາມຮູ້ຄຳສັບພາສາຈີນຂອງທ່ານ</p>
+            <div id="quizContent" style="margin-top: 20px;">
+                <button class="btn btn-primary" onclick="startQuiz()" style="font-size: 16px; padding: 12px 24px;">ເລີ່ມຕົ້ນຫຼິ້ນ Quiz 🚀</button>
+            </div>
+        </div>
+    </main>
+
+    <div class="bottom-nav">
+        <a href="index.html" class="nav-item"><i class="fa-solid fa-house"></i><span>ໜ້າຫຼັກ</span></a>
+        <a href="vocab.html" class="nav-item"><i class="fa-solid fa-book"></i><span>ຄຳສັບ</span></a>
+        <a href="quiz.html" class="nav-item active"><i class="fa-solid fa-gamepad"></i><span>Quiz</span></a>
+        <a href="about.html" class="nav-item"><i class="fa-solid fa-circle-info"></i><span>ກ່ຽວກັບ</span></a>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

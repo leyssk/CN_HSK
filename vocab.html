@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="lo">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ຄຳສັບ HSK - TC Leyssk</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="app-header">
+        <div class="header-content">
+            <div class="logo-area" onclick="location.href='index.html'" style="cursor:pointer;">
+                <span class="logo-emoji">🐼</span>
+                <h2>TC Leyssk HSK</h2>
+            </div>
+            <nav class="desktop-nav">
+                <a href="index.html"><i class="fa-solid fa-house"></i> ໜ້າຫຼັກ</a>
+                <a href="vocab.html" class="active"><i class="fa-solid fa-book"></i> ຄຳສັບ HSK</a>
+                <a href="quiz.html"><i class="fa-solid fa-gamepad"></i> ເກມ Quiz</a>
+                <a href="about.html"><i class="fa-solid fa-circle-info"></i> ກ່ຽວກັບ</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="app-container">
+        <div class="search-container">
+            <i class="fa-solid fa-magnifying-glass search-icon"></i>
+            <input type="text" id="searchBox" class="search-input" placeholder="ຄົ້ນຫາຄຳສັບ (ຈີນ, ພິນອິນ, ລາວ)..." onkeyup="renderTable()">
+        </div>
+
+        <div class="vocab-section">
+            <div class="upload-box">
+                <h4>📁 ຈັດການຂໍ້ມູນຄຳສັບ CSV</h4>
+                <div class="upload-controls">
+                    <input type="file" id="csvFileInput" accept=".csv">
+                    <button class="btn btn-primary" onclick="uploadCSV()">📥 ອັບໂຫຼດ CSV</button>
+                    <button class="btn btn-danger" onclick="clearData()">🗑️ ລ້າງຂໍ້ມູນ</button>
+                </div>
+            </div>
+
+            <div class="table-responsive">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Emoji</th>
+                            <th>ຕົວຈີນ</th>
+                            <th>ພິນອິນ</th>
+                            <th>ຄຳແປລາວ</th>
+                            <th>ໝວດໝູ່</th>
+                            <th>🔊 ຟັງສຽງ</th>
+                        </tr>
+                    </thead>
+                    <tbody id="vocabTableBody"></tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+
+    <div class="bottom-nav">
+        <a href="index.html" class="nav-item"><i class="fa-solid fa-house"></i><span>ໜ້າຫຼັກ</span></a>
+        <a href="vocab.html" class="nav-item active"><i class="fa-solid fa-book"></i><span>ຄຳສັບ</span></a>
+        <a href="quiz.html" class="nav-item"><i class="fa-solid fa-gamepad"></i><span>Quiz</span></a>
+        <a href="about.html" class="nav-item"><i class="fa-solid fa-circle-info"></i><span>ກ່ຽວກັບ</span></a>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

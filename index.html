@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="lo">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TC Leyssk - ລະບົບຮຽນພາສາຈີນ HSK</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="app-header">
+        <div class="header-content">
+            <div class="logo-area">
+                <span class="logo-emoji">🐼</span>
+                <h2>TC Leyssk HSK</h2>
+            </div>
+            <nav class="desktop-nav">
+                <a href="index.html" class="active"><i class="fa-solid fa-house"></i> ໜ້າຫຼັກ</a>
+                <a href="vocab.html"><i class="fa-solid fa-book"></i> ຄຳສັບ HSK</a>
+                <a href="quiz.html"><i class="fa-solid fa-gamepad"></i> ເກມ Quiz</a>
+                <a href="about.html"><i class="fa-solid fa-circle-info"></i> ກ່ຽວກັບ</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="app-container">
+        <!-- Hero Banner -->
+        <section class="hero-banner">
+            <div class="hero-text">
+                <span class="banner-tag">NEW ✨ HSK 2026</span>
+                <h1>ຮຽນພາສາຈີນ HSK ຄົບສູດ</h1>
+                <p>ລະບົບຮຽນທັນສະໄໝ ພ້ອມເກມ Quiz, ລະບົບຟັງສຽງ ແລະ ຄົ້ນຫາຄຳສັບໄດ້ຢ່າງວ່ອງໄວ</p>
+                <a href="vocab.html" class="btn-hero">ເລີ່ມຕົ້ນຮຽນເລີຍ 🚀</a>
+            </div>
+            <div class="hero-icon">🇨🇳</div>
+        </section>
+
+        <!-- HSK Level Cards -->
+        <section class="section-box">
+            <div class="section-header">
+                <div class="section-icon bg-blue"><i class="fa-solid fa-book-open"></i></div>
+                <h3>ລະດັບການສຶກສາ HSK</h3>
+            </div>
+            <div class="hsk-grid">
+                <div class="hsk-card hsk-1" onclick="location.href='vocab.html?level=HSK1'">
+                    <div class="hsk-info"><h4>HSK 1</h4><p>200 ຄຳສັບພື້ນຖານ</p></div>
+                    <div class="hsk-badge bg-blue">1</div>
+                </div>
+                <div class="hsk-card hsk-2" onclick="location.href='vocab.html?level=HSK2'">
+                    <div class="hsk-info"><h4>HSK 2</h4><p>200 ຄຳສັບປະຈຳວັນ</p></div>
+                    <div class="hsk-badge bg-green">2</div>
+                </div>
+                <div class="hsk-card hsk-3" onclick="location.href='vocab.html?level=HSK3'">
+                    <div class="hsk-info"><h4>HSK 3</h4><p>600 ຄຳສັບ</p></div>
+                    <div class="hsk-badge bg-purple">3</div>
+                </div>
+                <div class="hsk-card hsk-4" onclick="location.href='vocab.html?level=HSK4'">
+                    <div class="hsk-info"><h4>HSK 4</h4><p>1,200 ຄຳສັບ</p></div>
+                    <div class="hsk-badge bg-orange">4</div>
+                </div>
+                <div class="hsk-card hsk-5" onclick="location.href='vocab.html?level=HSK5'">
+                    <div class="hsk-info"><h4>HSK 5</h4><p>2,500 ຄຳສັບ</p></div>
+                    <div class="hsk-badge bg-pink">5</div>
+                </div>
+                <div class="hsk-card hsk-6" onclick="location.href='vocab.html?level=HSK6'">
+                    <div class="hsk-info"><h4>HSK 6</h4><p>5,000+ ຄຳສັບ</p></div>
+                    <div class="hsk-badge bg-teal">6</div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Bottom Navigation for Mobile -->
+    <div class="bottom-nav">
+        <a href="index.html" class="nav-item active"><i class="fa-solid fa-house"></i><span>ໜ້າຫຼັກ</span></a>
+        <a href="vocab.html" class="nav-item"><i class="fa-solid fa-book"></i><span>ຄຳສັບ</span></a>
+        <a href="quiz.html" class="nav-item"><i class="fa-solid fa-gamepad"></i><span>Quiz</span></a>
+        <a href="about.html" class="nav-item"><i class="fa-solid fa-circle-info"></i><span>ກ່ຽວກັບ</span></a>
+    </div>
+</body>
+</html>
