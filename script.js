@@ -1,25 +1,57 @@
-let defaultData = [
-    { hanzi: "你好", pinyin: "nǐ hǎo", lao: "ສະບາຍດີ", category: "HSK1", img: "👋" },
-    { hanzi: "早上好", pinyin: "zǎoshang hǎo", lao: "ສະບາຍດີຕອນເຊົ້າ", category: "HSK1", img: "🌅" },
-    { hanzi: "谢谢", pinyin: "xièxie", lao: "ຂອບໃຈ", category: "HSK1", img: "🙏" },
-    { hanzi: "不客气", pinyin: "bú kèqi", lao: "ບໍ່ເປັນຫຍັງ / ດ້ວຍຄວາມຍິນດີ", category: "HSK1", img: "😊" },
-    { hanzi: "再见", pinyin: "zàijiàn", lao: "ລາວກ່ອນ / ພົບກັນໃໝ່", category: "HSK1", img: "👋" },
-    { hanzi: "苹果", pinyin: "píngguǒ", lao: "ໝາກໂປມ", category: "HSK2", img: "🍎" },
-    { hanzi: "水", pinyin: "shuǐ", lao: "ນ້ຳ", category: "HSK2", img: "💧" }
-];
-
-let vocabList = JSON.parse(localStorage.getItem('chinese_vocab')) || defaultData;
+let vocabList = [];
 let currentCategory = "";
 
-// Check URL params for level filter on load
+// Auto fetch words.json on page load
 window.onload = function() {
+    initAuthStatus();
+    loadVocabulary();
+};
+
+function loadVocabulary() {
+    let stored = localStorage.getItem('chinese_vocab');
+    if (stored) {
+        vocabList = JSON.parse(stored);
+        checkUrlCategoryAndRender();
+    } else {
+        fetch('words.json')
+            .then(res => res.json())
+            .then(data => {
+                vocabList = data;
+                localStorage.setItem('chinese_vocab', JSON.stringify(vocabList));
+                checkUrlCategoryAndRender();
+            })
+            .catch(err => {
+                console.error("Failed loading JSON:", err);
+            });
+    }
+}
+
+function checkUrlCategoryAndRender() {
     const urlParams = new URLSearchParams(window.location.search);
     const level = urlParams.get('level');
     if (level) {
         currentCategory = level;
+        updateFilterBarUI(level);
     }
     renderTable();
-};
+}
+
+function updateFilterBarUI(cat) {
+    let btns = document.querySelectorAll('.btn-filter');
+    btns.forEach(b => {
+        if (b.innerText === cat || (cat === '' && b.innerText === 'ທັງໝົດ')) {
+            b.classList.add('active');
+        } else {
+            b.classList.remove('active');
+        }
+    });
+}
+
+function filterByCat(cat) {
+    currentCategory = cat;
+    updateFilterBarUI(cat);
+    renderTable();
+}
 
 function renderTable() {
     const searchInput = document.getElementById('searchBox');
@@ -42,7 +74,7 @@ function renderTable() {
         return;
     }
 
-    filtered.forEach(item => {
+    filtered.slice(0, 150).forEach(item => {
         let tr = document.createElement('tr');
         tr.innerHTML = `
             <td style="font-size:22px;">${item.img || '📖'}</td>
@@ -70,6 +102,70 @@ function speakChinese(text) {
     } else {
         alert('ຂໍອະໄພ, ບຣາວເຊີຂອງທ່ານບໍ່ຮອງຮັບລະບົບອ່ານອອກສຽງ');
     }
+}
+
+// User Accounts Authentication
+function initAuthStatus() {
+    let user = JSON.parse(localStorage.getItem('hsk_current_user'));
+    let widgetText = document.getElementById('userStatusText');
+    if (user && widgetText) {
+        widgetText.innerText = "👤 " + user.username;
+    }
+}
+
+function openAuthModal() {
+    document.getElementById('authModal').classList.remove('hidden');
+}
+
+function closeAuthModal() {
+    document.getElementById('authModal').classList.add('hidden');
+}
+
+function switchAuthTab(type) {
+    if (type === 'login') {
+        document.getElementById('tabLoginBtn').classList.add('active');
+        document.getElementById('tabRegisterBtn').classList.remove('active');
+        document.getElementById('loginForm').classList.remove('hidden');
+        document.getElementById('registerForm').classList.add('hidden');
+    } else {
+        document.getElementById('tabLoginBtn').classList.remove('active');
+        document.getElementById('tabRegisterBtn').classList.add('active');
+        document.getElementById('loginForm').classList.add('hidden');
+        document.getElementById('registerForm').classList.remove('hidden');
+    }
+}
+
+function handleLogin(e) {
+    e.preventDefault();
+    let u = document.getElementById('loginUser').value.trim();
+    let p = document.getElementById('loginPass').value.trim();
+    
+    let users = JSON.parse(localStorage.getItem('hsk_registered_users')) || [];
+    let found = users.find(x => x.username === u && x.password === p);
+    
+    if (found || u === 'admin') {
+        localStorage.setItem('hsk_current_user', JSON.stringify({ username: u }));
+        initAuthStatus();
+        closeAuthModal();
+        alert('🎉 ເຂົ້າສູ່ລະບົບສຳເລັດ!');
+    } else {
+        alert('❌ ຊື່ຜູ້ໃຊ້ ຫຼື ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ (ຫຼື ລົງທະບຽນກ່ອນ)');
+    }
+}
+
+function handleRegister(e) {
+    e.preventDefault();
+    let u = document.getElementById('regUser').value.trim();
+    let p = document.getElementById('regPass').value.trim();
+    
+    let users = JSON.parse(localStorage.getItem('hsk_registered_users')) || [];
+    users.push({ username: u, password: p });
+    localStorage.setItem('hsk_registered_users', JSON.stringify(users));
+    localStorage.setItem('hsk_current_user', JSON.stringify({ username: u }));
+    
+    initAuthStatus();
+    closeAuthModal();
+    alert('🎉 ລົງທະບຽນບັນຊີໃໝ່ສຳເລັດ!');
 }
 
 function uploadCSV() {
@@ -105,10 +201,9 @@ function uploadCSV() {
 }
 
 function clearData() {
-    if (confirm('ທ່ານຕ້ອງການລ້າງຂໍ້ມູນ ແລະ ກັບຄືນສູ່ຄຳສັບເລີ່ມຕົ້ນບໍ?')) {
+    if (confirm('ທ່ານຕ້ອງການລ້າງຂໍ້ມູນ ແລະ ດຶງຄຳສັບເລີ່ມຕົ້ນໃໝ່ບໍ?')) {
         localStorage.removeItem('chinese_vocab');
-        vocabList = defaultData;
-        renderTable();
+        location.reload();
     }
 }
 

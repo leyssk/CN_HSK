@@ -6,6 +6,10 @@
     <title>TC Leyssk - ລະບົບຮຽນພາສາຈີນ HSK</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="app-icon.png">
+    <link rel="apple-touch-icon" href="app-icon.png">
+    <meta name="theme-color" content="#f97316">
 </head>
 <body>
 
@@ -13,7 +17,7 @@
     <header class="app-header">
         <div class="header-content">
             <div class="logo-area">
-                <span class="logo-emoji">🐼</span>
+                <img src="app-icon.png" class="app-logo-img" alt="Logo">
                 <h2>TC Leyssk HSK</h2>
             </div>
             <nav class="desktop-nav">
@@ -22,6 +26,10 @@
                 <a href="quiz.html"><i class="fa-solid fa-gamepad"></i> ເກມ Quiz</a>
                 <a href="about.html"><i class="fa-solid fa-circle-info"></i> ກ່ຽວກັບ</a>
             </nav>
+            <div class="user-profile-widget">
+                <span id="userStatusText">👤 ແຂກ</span>
+                <button class="btn-sm btn-auth-trigger" onclick="openAuthModal()">🔐 ລັອກອິນ</button>
+            </div>
         </div>
     </header>
 
@@ -73,6 +81,35 @@
         </section>
     </main>
 
+    <!-- Auth Modal -->
+    <div id="authModal" class="modal-overlay hidden">
+        <div class="modal-box">
+            <span class="close-modal" onclick="closeAuthModal()">&times;</span>
+            <div class="auth-tabs">
+                <button id="tabLoginBtn" class="auth-tab-btn active" onclick="switchAuthTab('login')">ເຂົ້າສູ່ລະບົບ</button>
+                <button id="tabRegisterBtn" class="auth-tab-btn" onclick="switchAuthTab('register')">ລົງທະບຽນ</button>
+            </div>
+            <form id="loginForm" onsubmit="handleLogin(event)">
+                <div class="input-group">
+                    <input type="text" id="loginUser" placeholder="ຊື່ຜູ້ໃຊ້ / Username" required>
+                </div>
+                <div class="input-group">
+                    <input type="password" id="loginPass" placeholder="ລະຫັດຜ່ານ" required>
+                </div>
+                <button type="submit" class="btn btn-primary" style="width:100%">ເຂົ້າສູ່ລະບົບ</button>
+            </form>
+            <form id="registerForm" class="hidden" onsubmit="handleRegister(event)">
+                <div class="input-group">
+                    <input type="text" id="regUser" placeholder="ຊື່ຜູ້ໃຊ້ / Username" required>
+                </div>
+                <div class="input-group">
+                    <input type="password" id="regPass" placeholder="ລະຫັດຜ່ານ" required>
+                </div>
+                <button type="submit" class="btn btn-primary" style="width:100%">ລົງທະບຽນບັນຊີໃໝ່</button>
+            </form>
+        </div>
+    </div>
+
     <!-- Bottom Navigation for Mobile -->
     <div class="bottom-nav">
         <a href="index.html" class="nav-item active"><i class="fa-solid fa-house"></i><span>ໜ້າຫຼັກ</span></a>
@@ -80,5 +117,7 @@
         <a href="quiz.html" class="nav-item"><i class="fa-solid fa-gamepad"></i><span>Quiz</span></a>
         <a href="about.html" class="nav-item"><i class="fa-solid fa-circle-info"></i><span>ກ່ຽວກັບ</span></a>
     </div>
+
+    <script src="script.js"></script>
 </body>
 </html>

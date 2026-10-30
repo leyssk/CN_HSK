@@ -1,0 +1,6281 @@
+[
+  {
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "lao": "ຮັກ / ຮັກມັກ",
+    "category": "HSK1",
+    "img": "❤️"
+  },
+  {
+    "hanzi": "八",
+    "pinyin": "bā",
+    "lao": "ແປດ (8)",
+    "category": "HSK1",
+    "img": "8️⃣"
+  },
+  {
+    "hanzi": "爸爸",
+    "pinyin": "bàba",
+    "lao": "ພໍ່",
+    "category": "HSK1",
+    "img": "👨"
+  },
+  {
+    "hanzi": "杯子",
+    "pinyin": "bēizi",
+    "lao": "ຈອກ / ແກ້ວ",
+    "category": "HSK1",
+    "img": "🥛"
+  },
+  {
+    "hanzi": "北京",
+    "pinyin": "Běijīng",
+    "lao": "ປັກກິ່ງ",
+    "category": "HSK1",
+    "img": "🏛️"
+  },
+  {
+    "hanzi": "本",
+    "pinyin": "běn",
+    "lao": "ຫົວ (ເລ່ມ / ປຶ້ມ)",
+    "category": "HSK1",
+    "img": "📖"
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "lao": "ບໍ່",
+    "category": "HSK1",
+    "img": "❌"
+  },
+  {
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "lao": "ຜັກ / ອາຫານ",
+    "category": "HSK1",
+    "img": "🥗"
+  },
+  {
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "lao": "ນ້ຳຊາ",
+    "category": "HSK1",
+    "img": "🍵"
+  },
+  {
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "lao": "ກິນ",
+    "category": "HSK1",
+    "img": "🍜"
+  },
+  {
+    "hanzi": "出租车",
+    "pinyin": "chūzūchē",
+    "lao": "ລົດແທັກຊີ",
+    "category": "HSK1",
+    "img": "🚕"
+  },
+  {
+    "hanzi": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "lao": "ໂທລະສັບ",
+    "category": "HSK1",
+    "img": "📞"
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "dà",
+    "lao": "ໃຫຍ່",
+    "category": "HSK1",
+    "img": "🐘"
+  },
+  {
+    "hanzi": "的",
+    "pinyin": "de",
+    "lao": "ຂອງ",
+    "category": "HSK1",
+    "img": "🏷️"
+  },
+  {
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "lao": "ໂມງ / ຈຸດ",
+    "category": "HSK1",
+    "img": "⏰"
+  },
+  {
+    "hanzi": "电脑",
+    "pinyin": "diànnǎo",
+    "lao": "ຄອມພິວເຕີ",
+    "category": "HSK1",
+    "img": "💻"
+  },
+  {
+    "hanzi": "电视",
+    "pinyin": "diànshì",
+    "lao": "ໂທລະພາບ",
+    "category": "HSK1",
+    "img": "📺"
+  },
+  {
+    "hanzi": "电影",
+    "pinyin": "diànyǐng",
+    "lao": "ຮູບເງົາ / ໜັງ",
+    "category": "HSK1",
+    "img": "🎬"
+  },
+  {
+    "hanzi": "东西",
+    "pinyin": "dōngxi",
+    "lao": "ສິ່ງຂອງ",
+    "category": "HSK1",
+    "img": "📦"
+  },
+  {
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "lao": "ທັງໝົດ / ล้วນແຕ່",
+    "category": "HSK1",
+    "img": "👥"
+  },
+  {
+    "hanzi": "读",
+    "pinyin": "dú",
+    "lao": "ອ່ານ",
+    "category": "HSK1",
+    "img": "📚"
+  },
+  {
+    "hanzi": "对不起",
+    "pinyin": "duìbuqǐ",
+    "lao": "ຂໍໂທດ",
+    "category": "HSK1",
+    "img": "🙏"
+  },
+  {
+    "hanzi": "多",
+    "pinyin": "duō",
+    "lao": "ຫຼາຍ",
+    "category": "HSK1",
+    "img": "📈"
+  },
+  {
+    "hanzi": "多少",
+    "pinyin": "duōshao",
+    "lao": "ເທົ່າໃດ",
+    "category": "HSK1",
+    "img": "❓"
+  },
+  {
+    "hanzi": "儿子",
+    "pinyin": "érzi",
+    "lao": "ລູກຊາຍ",
+    "category": "HSK1",
+    "img": "👦"
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "èr",
+    "lao": "ສອງ (2)",
+    "category": "HSK1",
+    "img": "2️⃣"
+  },
+  {
+    "hanzi": "饭店",
+    "pinyin": "fàndiàn",
+    "lao": "ຮ້ານອາຫານ / ໂຮງແຮມ",
+    "category": "HSK1",
+    "img": "🏨"
+  },
+  {
+    "hanzi": "飞机",
+    "pinyin": "fēijī",
+    "lao": "ເຮືອບິນ",
+    "category": "HSK1",
+    "img": "✈️"
+  },
+  {
+    "hanzi": "分钟",
+    "pinyin": "fēnzhōng",
+    "lao": "ນາທີ",
+    "category": "HSK1",
+    "img": "⏱️"
+  },
+  {
+    "hanzi": "高兴",
+    "pinyin": "gāoxìng",
+    "lao": "ດີໃຈ / ດີອົກດີໃຈ",
+    "category": "HSK1",
+    "img": "😄"
+  },
+  {
+    "hanzi": "个",
+    "pinyin": "gè",
+    "lao": "ອັນ / ໂຕ / ຄົນ (ລັກສະນະນາມ)",
+    "category": "HSK1",
+    "img": "🎯"
+  },
+  {
+    "hanzi": "工作",
+    "pinyin": "gōngzuò",
+    "lao": "ເວັບ / ວຽກ / ເຮັດວຽກ",
+    "category": "HSK1",
+    "img": "💼"
+  },
+  {
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "lao": "ໝາ",
+    "category": "HSK1",
+    "img": "🐶"
+  },
+  {
+    "hanzi": "汉语",
+    "pinyin": "Hànyǔ",
+    "lao": "ພາສາຈີນ",
+    "category": "HSK1",
+    "img": "🇨🇳"
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "lao": "ດີ",
+    "category": "HSK1",
+    "img": "👍"
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "lao": "ດື່ມ",
+    "category": "HSK1",
+    "img": "🥤"
+  },
+  {
+    "hanzi": "和",
+    "pinyin": "hé",
+    "lao": "ແລະ / ກັບ",
+    "category": "HSK1",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "lao": "ຫຼາຍ / ຫຼາຍໆ",
+    "category": "HSK1",
+    "img": "🔥"
+  },
+  {
+    "hanzi": "后面",
+    "pinyin": "hòumiàn",
+    "lao": "ດ້ານຫຼັງ / ທາງຫຼັງ",
+    "category": "HSK1",
+    "img": "⬅️"
+  },
+  {
+    "hanzi": "回",
+    "pinyin": "huí",
+    "lao": "ກັບ / ກັບຄືນ",
+    "category": "HSK1",
+    "img": "🏠"
+  },
+  {
+    "hanzi": "会",
+    "pinyin": "huì",
+    "lao": "ເປັນ / ໄດ້ / ກອງປະຊຸມ",
+    "category": "HSK1",
+    "img": "💡"
+  },
+  {
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "lao": "ຈັກ / ເທົ່າໃດ",
+    "category": "HSK1",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "lao": "ເຮືອນ / ຄອບຄົວ",
+    "category": "HSK1",
+    "img": "🏡"
+  },
+  {
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "lao": "ຊື່ວ່າ / ຮ້ອງ",
+    "category": "HSK1",
+    "img": "🗣️"
+  },
+  {
+    "hanzi": "今天",
+    "pinyin": "jīntiān",
+    "lao": "ມື້ນີ້",
+    "category": "HSK1",
+    "img": "📅"
+  },
+  {
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "lao": "ເກົ້າ (9)",
+    "category": "HSK1",
+    "img": "9️⃣"
+  },
+  {
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "lao": "ເປີດ / ຂັບ",
+    "category": "HSK1",
+    "img": "🚗"
+  },
+  {
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "lao": "ເບິ່ງ / ອ່ານ",
+    "category": "HSK1",
+    "img": "👀"
+  },
+  {
+    "hanzi": "看见",
+    "pinyin": "kànjiàn",
+    "lao": "ເຫັນ / ມອງເຫັນ",
+    "category": "HSK1",
+    "img": "👁️"
+  },
+  {
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "lao": "ກີບ / ຫຼຽນ / ຕ່ອນ",
+    "category": "HSK1",
+    "img": "💰"
+  },
+  {
+    "hanzi": "来",
+    "pinyin": "lái",
+    "lao": "ມາ",
+    "category": "HSK1",
+    "img": "🏃"
+  },
+  {
+    "hanzi": "老师",
+    "pinyin": "lǎoshī",
+    "lao": "ອາຈານ / ຄູ",
+    "category": "HSK1",
+    "img": "👨‍🏫"
+  },
+  {
+    "hanzi": "了",
+    "pinyin": "le",
+    "lao": "ແລ້ວ",
+    "category": "HSK1",
+    "img": "✅"
+  },
+  {
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "lao": "ໜາວ",
+    "category": "HSK1",
+    "img": "❄️"
+  },
+  {
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "lao": "ໃນ / ດ້ານໃນ",
+    "category": "HSK1",
+    "img": "📥"
+  },
+  {
+    "hanzi": "零",
+    "pinyin": "líng",
+    "lao": "ສູນ (0)",
+    "category": "HSK1",
+    "img": "0️⃣"
+  },
+  {
+    "hanzi": "六",
+    "pinyin": "liù",
+    "lao": "ຫົກ (6)",
+    "category": "HSK1",
+    "img": "6️⃣"
+  },
+  {
+    "hanzi": "妈妈",
+    "pinyin": "māma",
+    "lao": "ແມ່",
+    "category": "HSK1",
+    "img": "👩"
+  },
+  {
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "lao": "ບໍ / ບໍ່",
+    "category": "HSK1",
+    "img": "❓"
+  },
+  {
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "lao": "ຊື້",
+    "category": "HSK1",
+    "img": "🛒"
+  },
+  {
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "lao": "ແມວ",
+    "category": "HSK1",
+    "img": "🐱"
+  },
+  {
+    "hanzi": "没关系",
+    "pinyin": "méi guānxi",
+    "lao": "ບໍ່ເປັນຫຍັງ",
+    "category": "HSK1",
+    "img": "👌"
+  },
+  {
+    "hanzi": "没有",
+    "pinyin": "méiyǒu",
+    "lao": "ບໍ່ມີ",
+    "category": "HSK1",
+    "img": "🚫"
+  },
+  {
+    "hanzi": "米饭",
+    "pinyin": "mǐfàn",
+    "lao": "ເຂົ້າສຸກ",
+    "category": "HSK1",
+    "img": "🍚"
+  },
+  {
+    "hanzi": "明天",
+    "pinyin": "míngtiān",
+    "lao": "ມື້ອື່ນ",
+    "category": "HSK1",
+    "img": "🌅"
+  },
+  {
+    "hanzi": "名字",
+    "pinyin": "míngzi",
+    "lao": "ຊື່",
+    "category": "HSK1",
+    "img": "📛"
+  },
+  {
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "lao": "ໃດ / ໃສ",
+    "category": "HSK1",
+    "img": "🧭"
+  },
+  {
+    "hanzi": "哪儿",
+    "pinyin": "nǎr",
+    "lao": "ຢູ່ໃສ",
+    "category": "HSK1",
+    "img": "📍"
+  },
+  {
+    "hanzi": "那",
+    "pinyin": "nà",
+    "lao": "ນັ້ນ",
+    "category": "HSK1",
+    "img": "👉"
+  },
+  {
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "lao": "ລະ / ເດ",
+    "category": "HSK1",
+    "img": "💭"
+  },
+  {
+    "hanzi": "能",
+    "pinyin": "néng",
+    "lao": "ສາມາດ",
+    "category": "HSK1",
+    "img": "💪"
+  },
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "lao": "ເຈົ້າ",
+    "category": "HSK1",
+    "img": "👤"
+  },
+  {
+    "hanzi": "年",
+    "pinyin": "nián",
+    "lao": "ປີ",
+    "category": "HSK1",
+    "img": "🗓️"
+  },
+  {
+    "hanzi": "女儿",
+    "pinyin": "nǚ'ér",
+    "lao": "ລູກສາວ",
+    "category": "HSK1",
+    "img": "👧"
+  },
+  {
+    "hanzi": "朋友",
+    "pinyin": "péngyou",
+    "lao": "ໝູ່ / ເພື່ອນ",
+    "category": "HSK1",
+    "img": "🧑‍🤝‍🧑"
+  },
+  {
+    "hanzi": "漂亮",
+    "pinyin": "piàoliang",
+    "lao": "ງາມ",
+    "category": "HSK1",
+    "img": "✨"
+  },
+  {
+    "hanzi": "苹果",
+    "pinyin": "píngguǒ",
+    "lao": "ໝາກໂປມ",
+    "category": "HSK1",
+    "img": "🍎"
+  },
+  {
+    "hanzi": "七",
+    "pinyin": "qī",
+    "lao": "ເຈັດ (7)",
+    "category": "HSK1",
+    "img": "7️⃣"
+  },
+  {
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "lao": "ເງິນ",
+    "category": "HSK1",
+    "img": "💵"
+  },
+  {
+    "hanzi": "前面",
+    "pinyin": "qiánmiàn",
+    "lao": "ດ້ານໜ້າ",
+    "category": "HSK1",
+    "img": "➡️"
+  },
+  {
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "lao": "ເຊີນ / ກະລຸນາ",
+    "category": "HSK1",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "去",
+    "pinyin": "qù",
+    "lao": "ໄປ",
+    "category": "HSK1",
+    "img": "🚶"
+  },
+  {
+    "hanzi": "热",
+    "pinyin": "rè",
+    "lao": "ຮ້ອນ",
+    "category": "HSK1",
+    "img": "☀️"
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "lao": "ຄົນ",
+    "category": "HSK1",
+    "img": "🧍"
+  },
+  {
+    "hanzi": "认识",
+    "pinyin": "rènshi",
+    "lao": "ຮູ້ຈັກ",
+    "category": "HSK1",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "sān",
+    "lao": "ສາມ (3)",
+    "category": "HSK1",
+    "img": "3️⃣"
+  },
+  {
+    "hanzi": "商店",
+    "pinyin": "shāngdiàn",
+    "lao": "ຮ້ານຄ້າ",
+    "category": "HSK1",
+    "img": "🏬"
+  },
+  {
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "lao": "ເທິງ / ຂຶ້ນ",
+    "category": "HSK1",
+    "img": "⬆️"
+  },
+  {
+    "hanzi": "上午",
+    "pinyin": "shàngwǔ",
+    "lao": "ຕອນເຊົ້າ",
+    "category": "HSK1",
+    "img": "🌤️"
+  },
+  {
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "lao": "ໜ້ອຍ",
+    "category": "HSK1",
+    "img": "📉"
+  },
+  {
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "lao": "ໃຜ",
+    "category": "HSK1",
+    "img": "❓"
+  },
+  {
+    "hanzi": "什么",
+    "pinyin": "shénme",
+    "lao": "ອັນໃດ / ຫຍັງ",
+    "category": "HSK1",
+    "img": "❓"
+  },
+  {
+    "hanzi": "十",
+    "pinyin": "shí",
+    "lao": "ສິບ (10)",
+    "category": "HSK1",
+    "img": "🔟"
+  },
+  {
+    "hanzi": "时候",
+    "pinyin": "shíhou",
+    "lao": "ເວລາ",
+    "category": "HSK1",
+    "img": "⏳"
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "shì",
+    "lao": "ແມ່ນ / ເປັນ",
+    "category": "HSK1",
+    "img": "✔️"
+  },
+  {
+    "hanzi": "书",
+    "pinyin": "shū",
+    "lao": "ປຶ້ມ",
+    "category": "HSK1",
+    "img": "📘"
+  },
+  {
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "lao": "ນ້ຳ",
+    "category": "HSK1",
+    "img": "💧"
+  },
+  {
+    "hanzi": "水果",
+    "pinyin": "shuǐguǒ",
+    "lao": "ໝາກໄມ້",
+    "category": "HSK1",
+    "img": "🍇"
+  },
+  {
+    "hanzi": "睡觉",
+    "pinyin": "shuìjiào",
+    "lao": "ນອນ",
+    "category": "HSK1",
+    "img": "🛌"
+  },
+  {
+    "hanzi": "说话",
+    "pinyin": "shuōhuà",
+    "lao": "ເວົ້າ",
+    "category": "HSK1",
+    "img": "💬"
+  },
+  {
+    "hanzi": "四",
+    "pinyin": "sì",
+    "lao": "ສີ່ (4)",
+    "category": "HSK1",
+    "img": "4️⃣"
+  },
+  {
+    "hanzi": "岁",
+    "pinyin": "suì",
+    "lao": "ປີ (ອາຍຸ)",
+    "category": "HSK1",
+    "img": "🎂"
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "tā",
+    "lao": "ລາວ (ຜູ້ຊາຍ)",
+    "category": "HSK1",
+    "img": "👨"
+  },
+  {
+    "hanzi": "她",
+    "pinyin": "tā",
+    "lao": "ລາວ (ຜູ້ຍິງ)",
+    "category": "HSK1",
+    "img": "👩"
+  },
+  {
+    "hanzi": "太",
+    "pinyin": "tài",
+    "lao": "ເກີນໄປ / ຫຼາຍ",
+    "category": "HSK1",
+    "img": "🤩"
+  },
+  {
+    "hanzi": "天气",
+    "pinyin": "tiānqì",
+    "lao": "ອາກາດ",
+    "category": "HSK1",
+    "img": "🌤️"
+  },
+  {
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "lao": "ຟັງ",
+    "category": "HSK1",
+    "img": "🎧"
+  },
+  {
+    "hanzi": "同学",
+    "pinyin": "tóngxué",
+    "lao": "ໝູ່ຮ່ວມຫ້ອງ",
+    "category": "HSK1",
+    "img": "🎓"
+  },
+  {
+    "hanzi": "喂",
+    "pinyin": "wèi",
+    "lao": "ໂຫຼ / ຮາໂຫຼ",
+    "category": "HSK1",
+    "img": "📞"
+  },
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "lao": "ຂ້ອຍ",
+    "category": "HSK1",
+    "img": "🙋‍♂️"
+  },
+  {
+    "hanzi": "我们",
+    "pinyin": "wǒmen",
+    "lao": "ພວກເຂົາ / ພວກເຮົາ",
+    "category": "HSK1",
+    "img": "👥"
+  },
+  {
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "lao": "ຫ້າ (5)",
+    "category": "HSK1",
+    "img": "5️⃣"
+  },
+  {
+    "hanzi": "喜欢",
+    "pinyin": "xǐhuan",
+    "lao": "ມັກ",
+    "category": "HSK1",
+    "img": "❤️"
+  },
+  {
+    "hanzi": "下",
+    "pinyin": "xià",
+    "lao": "ລຸ່ມ / ລົງ",
+    "category": "HSK1",
+    "img": "⬇️"
+  },
+  {
+    "hanzi": "下午",
+    "pinyin": "xiàwǔ",
+    "lao": "ຕອນບ່າຍ",
+    "category": "HSK1",
+    "img": "🌇"
+  },
+  {
+    "hanzi": "下雨",
+    "pinyin": "xiàyǔ",
+    "lao": "ຝົນຕົກ",
+    "category": "HSK1",
+    "img": "🌧️"
+  },
+  {
+    "hanzi": "先生",
+    "pinyin": "xiānsheng",
+    "lao": "ທ່ານ (ຜູ້ຊາຍ)",
+    "category": "HSK1",
+    "img": "👨‍💼"
+  },
+  {
+    "hanzi": "现在",
+    "pinyin": "xiànzài",
+    "lao": "ດ່ຽວນີ້ / ຕອນນີ້",
+    "category": "HSK1",
+    "img": "⌚"
+  },
+  {
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "lao": "ຄິດ / ຢາກ",
+    "category": "HSK1",
+    "img": "💭"
+  },
+  {
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "lao": "ນ້ອຍ",
+    "category": "HSK1",
+    "img": "🐥"
+  },
+  {
+    "hanzi": "小姐",
+    "pinyin": "xiǎojiě",
+    "lao": "ນາງສາວ",
+    "category": "HSK1",
+    "img": "👩‍💼"
+  },
+  {
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "lao": "ບາງ / ເລັກນ້ອຍ",
+    "category": "HSK1",
+    "img": "📊"
+  },
+  {
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "lao": "ຂຽນ",
+    "category": "HSK1",
+    "img": "✍️"
+  },
+  {
+    "hanzi": "谢谢",
+    "pinyin": "xièxie",
+    "lao": "ຂອບໃຈ",
+    "category": "HSK1",
+    "img": "🙏"
+  },
+  {
+    "hanzi": "星期",
+    "pinyin": "xīngqī",
+    "lao": "ອາທິດ / ສັບປະດາ",
+    "category": "HSK1",
+    "img": "📅"
+  },
+  {
+    "hanzi": "学生",
+    "pinyin": "xuésheng",
+    "lao": "ນັກຮຽນ",
+    "category": "HSK1",
+    "img": "🎒"
+  },
+  {
+    "hanzi": "学习",
+    "pinyin": "xuéxí",
+    "lao": "ຮຽນ",
+    "category": "HSK1",
+    "img": "📖"
+  },
+  {
+    "hanzi": "学校",
+    "pinyin": "xuéxiào",
+    "lao": "ໂຮງຮຽນ",
+    "category": "HSK1",
+    "img": "🏫"
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "lao": "ໜຶ່ງ (1)",
+    "category": "HSK1",
+    "img": "1️⃣"
+  },
+  {
+    "hanzi": "衣服",
+    "pinyin": "yīfu",
+    "lao": "ເຄື່ອງນຸ່ງ / ເສື້ອຜ້າ",
+    "category": "HSK1",
+    "img": "👕"
+  },
+  {
+    "hanzi": "医院",
+    "pinyin": "yīyuàn",
+    "lao": "ໂຮງໝໍ",
+    "category": "HSK1",
+    "img": "🏥"
+  },
+  {
+    "hanzi": "椅子",
+    "pinyin": "yǐzi",
+    "lao": "ຕັ່ງ",
+    "category": "HSK1",
+    "img": "🪑"
+  },
+  {
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "lao": "ມີ",
+    "category": "HSK1",
+    "img": "📦"
+  },
+  {
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "lao": "ເດືອນ",
+    "category": "HSK1",
+    "img": "🌙"
+  },
+  {
+    "hanzi": "再见",
+    "pinyin": "zàijiàn",
+    "lao": "ລາວກ່ອນ",
+    "category": "HSK1",
+    "img": "👋"
+  },
+  {
+    "hanzi": "在",
+    "pinyin": "zài",
+    "lao": "ຢູ່ / ທີ່",
+    "category": "HSK1",
+    "img": "📍"
+  },
+  {
+    "hanzi": "怎么",
+    "pinyin": "zěnme",
+    "lao": "ແນວໃດ / ແນວໃດ",
+    "category": "HSK1",
+    "img": "❓"
+  },
+  {
+    "hanzi": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "lao": "ເປັນແນວໃດ",
+    "category": "HSK1",
+    "img": "❓"
+  },
+  {
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "lao": "ນີ້",
+    "category": "HSK1",
+    "img": "👉"
+  },
+  {
+    "hanzi": "中国",
+    "pinyin": "Zhōngguó",
+    "lao": "ປະເທດຈີນ",
+    "category": "HSK1",
+    "img": "🇨🇳"
+  },
+  {
+    "hanzi": "中午",
+    "pinyin": "zhōngwǔ",
+    "lao": "ຕອນທ່ຽງ",
+    "category": "HSK1",
+    "img": "☀️"
+  },
+  {
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "lao": "ອາໄສຢູ່",
+    "category": "HSK1",
+    "img": "🏠"
+  },
+  {
+    "hanzi": "桌子",
+    "pinyin": "zhuōzi",
+    "lao": "ໂຕະ",
+    "category": "HSK1",
+    "img": "🪵"
+  },
+  {
+    "hanzi": "字",
+    "pinyin": "zì",
+    "lao": "ຕົວໜັງສື",
+    "category": "HSK1",
+    "img": "🔤"
+  },
+  {
+    "hanzi": "昨天",
+    "pinyin": "zuótiān",
+    "lao": "ມື້ວານນີ້",
+    "category": "HSK1",
+    "img": "📅"
+  },
+  {
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "lao": "ນັ່ງ",
+    "category": "HSK1",
+    "img": "🪑"
+  },
+  {
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "lao": "ເຮັດ",
+    "category": "HSK1",
+    "img": "🛠️"
+  },
+  {
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK2)",
+    "category": "HSK2",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK2)",
+    "category": "HSK2",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK2)",
+    "category": "HSK2",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK2)",
+    "category": "HSK2",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK2)",
+    "category": "HSK2",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK2)",
+    "category": "HSK2",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧12",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白13",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百14",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助15",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸16",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长17",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌18",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK2)",
+    "category": "HSK2",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出19",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK2)",
+    "category": "HSK2",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿20",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK2)",
+    "category": "HSK2",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次21",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK2)",
+    "category": "HSK2",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从22",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK2)",
+    "category": "HSK2",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错23",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK2)",
+    "category": "HSK2",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧24",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白25",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百26",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助27",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸28",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长29",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌30",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK2)",
+    "category": "HSK2",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出31",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK2)",
+    "category": "HSK2",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿32",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK2)",
+    "category": "HSK2",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次33",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK2)",
+    "category": "HSK2",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从34",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK2)",
+    "category": "HSK2",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错35",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK2)",
+    "category": "HSK2",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧36",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白37",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百38",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助39",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸40",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长41",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌42",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK2)",
+    "category": "HSK2",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出43",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK2)",
+    "category": "HSK2",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿44",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK2)",
+    "category": "HSK2",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次45",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK2)",
+    "category": "HSK2",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从46",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK2)",
+    "category": "HSK2",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错47",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK2)",
+    "category": "HSK2",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧48",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白49",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百50",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助51",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸52",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长53",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌54",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK2)",
+    "category": "HSK2",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出55",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK2)",
+    "category": "HSK2",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿56",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK2)",
+    "category": "HSK2",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次57",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK2)",
+    "category": "HSK2",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从58",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK2)",
+    "category": "HSK2",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错59",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK2)",
+    "category": "HSK2",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧60",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白61",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百62",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助63",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸64",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长65",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌66",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK2)",
+    "category": "HSK2",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出67",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK2)",
+    "category": "HSK2",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿68",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK2)",
+    "category": "HSK2",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次69",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK2)",
+    "category": "HSK2",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从70",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK2)",
+    "category": "HSK2",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错71",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK2)",
+    "category": "HSK2",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧72",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白73",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百74",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助75",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸76",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长77",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌78",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK2)",
+    "category": "HSK2",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出79",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK2)",
+    "category": "HSK2",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿80",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK2)",
+    "category": "HSK2",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次81",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK2)",
+    "category": "HSK2",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从82",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK2)",
+    "category": "HSK2",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错83",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK2)",
+    "category": "HSK2",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧84",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白85",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百86",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助87",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸88",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长89",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌90",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK2)",
+    "category": "HSK2",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出91",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK2)",
+    "category": "HSK2",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿92",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK2)",
+    "category": "HSK2",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次93",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK2)",
+    "category": "HSK2",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从94",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK2)",
+    "category": "HSK2",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错95",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK2)",
+    "category": "HSK2",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧96",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白97",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百98",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助99",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸100",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长101",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌102",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK2)",
+    "category": "HSK2",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出103",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK2)",
+    "category": "HSK2",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿104",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK2)",
+    "category": "HSK2",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次105",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK2)",
+    "category": "HSK2",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从106",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK2)",
+    "category": "HSK2",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错107",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK2)",
+    "category": "HSK2",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧108",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白109",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百110",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助111",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸112",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长113",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌114",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK2)",
+    "category": "HSK2",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出115",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK2)",
+    "category": "HSK2",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿116",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK2)",
+    "category": "HSK2",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次117",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK2)",
+    "category": "HSK2",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从118",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK2)",
+    "category": "HSK2",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错119",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK2)",
+    "category": "HSK2",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧120",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白121",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百122",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助123",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸124",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长125",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌126",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK2)",
+    "category": "HSK2",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出127",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK2)",
+    "category": "HSK2",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿128",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK2)",
+    "category": "HSK2",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次129",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK2)",
+    "category": "HSK2",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从130",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK2)",
+    "category": "HSK2",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错131",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK2)",
+    "category": "HSK2",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧132",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白133",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百134",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助135",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸136",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长137",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌138",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK2)",
+    "category": "HSK2",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出139",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK2)",
+    "category": "HSK2",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿140",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK2)",
+    "category": "HSK2",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次141",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK2)",
+    "category": "HSK2",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从142",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK2)",
+    "category": "HSK2",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错143",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK2)",
+    "category": "HSK2",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧144",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK2)",
+    "category": "HSK2",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白145",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK2)",
+    "category": "HSK2",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百146",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK2)",
+    "category": "HSK2",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助147",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK2)",
+    "category": "HSK2",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸148",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK2)",
+    "category": "HSK2",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长149",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK2)",
+    "category": "HSK2",
+    "img": "📏"
+  },
+  {
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK3)",
+    "category": "HSK3",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK3)",
+    "category": "HSK3",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK3)",
+    "category": "HSK3",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK3)",
+    "category": "HSK3",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK3)",
+    "category": "HSK3",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK3)",
+    "category": "HSK3",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧12",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白13",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百14",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助15",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸16",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长17",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌18",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK3)",
+    "category": "HSK3",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出19",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK3)",
+    "category": "HSK3",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿20",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK3)",
+    "category": "HSK3",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次21",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK3)",
+    "category": "HSK3",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从22",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK3)",
+    "category": "HSK3",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错23",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK3)",
+    "category": "HSK3",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧24",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白25",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百26",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助27",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸28",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长29",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌30",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK3)",
+    "category": "HSK3",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出31",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK3)",
+    "category": "HSK3",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿32",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK3)",
+    "category": "HSK3",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次33",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK3)",
+    "category": "HSK3",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从34",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK3)",
+    "category": "HSK3",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错35",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK3)",
+    "category": "HSK3",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧36",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白37",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百38",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助39",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸40",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长41",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌42",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK3)",
+    "category": "HSK3",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出43",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK3)",
+    "category": "HSK3",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿44",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK3)",
+    "category": "HSK3",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次45",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK3)",
+    "category": "HSK3",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从46",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK3)",
+    "category": "HSK3",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错47",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK3)",
+    "category": "HSK3",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧48",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白49",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百50",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助51",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸52",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长53",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌54",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK3)",
+    "category": "HSK3",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出55",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK3)",
+    "category": "HSK3",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿56",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK3)",
+    "category": "HSK3",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次57",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK3)",
+    "category": "HSK3",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从58",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK3)",
+    "category": "HSK3",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错59",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK3)",
+    "category": "HSK3",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧60",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白61",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百62",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助63",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸64",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长65",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌66",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK3)",
+    "category": "HSK3",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出67",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK3)",
+    "category": "HSK3",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿68",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK3)",
+    "category": "HSK3",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次69",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK3)",
+    "category": "HSK3",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从70",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK3)",
+    "category": "HSK3",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错71",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK3)",
+    "category": "HSK3",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧72",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白73",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百74",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助75",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸76",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长77",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌78",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK3)",
+    "category": "HSK3",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出79",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK3)",
+    "category": "HSK3",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿80",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK3)",
+    "category": "HSK3",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次81",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK3)",
+    "category": "HSK3",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从82",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK3)",
+    "category": "HSK3",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错83",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK3)",
+    "category": "HSK3",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧84",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白85",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百86",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助87",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸88",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长89",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌90",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK3)",
+    "category": "HSK3",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出91",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK3)",
+    "category": "HSK3",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿92",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK3)",
+    "category": "HSK3",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次93",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK3)",
+    "category": "HSK3",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从94",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK3)",
+    "category": "HSK3",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错95",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK3)",
+    "category": "HSK3",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧96",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白97",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百98",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助99",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸100",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长101",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌102",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK3)",
+    "category": "HSK3",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出103",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK3)",
+    "category": "HSK3",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿104",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK3)",
+    "category": "HSK3",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次105",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK3)",
+    "category": "HSK3",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从106",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK3)",
+    "category": "HSK3",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错107",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK3)",
+    "category": "HSK3",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧108",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白109",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百110",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助111",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸112",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长113",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌114",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK3)",
+    "category": "HSK3",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出115",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK3)",
+    "category": "HSK3",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿116",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK3)",
+    "category": "HSK3",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次117",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK3)",
+    "category": "HSK3",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从118",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK3)",
+    "category": "HSK3",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错119",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK3)",
+    "category": "HSK3",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧120",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白121",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百122",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助123",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸124",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长125",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌126",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK3)",
+    "category": "HSK3",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出127",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK3)",
+    "category": "HSK3",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿128",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK3)",
+    "category": "HSK3",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次129",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK3)",
+    "category": "HSK3",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从130",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK3)",
+    "category": "HSK3",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错131",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK3)",
+    "category": "HSK3",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧132",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白133",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百134",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助135",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸136",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长137",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌138",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK3)",
+    "category": "HSK3",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出139",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK3)",
+    "category": "HSK3",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿140",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK3)",
+    "category": "HSK3",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次141",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK3)",
+    "category": "HSK3",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从142",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK3)",
+    "category": "HSK3",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错143",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK3)",
+    "category": "HSK3",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧144",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK3)",
+    "category": "HSK3",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白145",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK3)",
+    "category": "HSK3",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百146",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK3)",
+    "category": "HSK3",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助147",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK3)",
+    "category": "HSK3",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸148",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK3)",
+    "category": "HSK3",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长149",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK3)",
+    "category": "HSK3",
+    "img": "📏"
+  },
+  {
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK4)",
+    "category": "HSK4",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK4)",
+    "category": "HSK4",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK4)",
+    "category": "HSK4",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK4)",
+    "category": "HSK4",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK4)",
+    "category": "HSK4",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK4)",
+    "category": "HSK4",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧12",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白13",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百14",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助15",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸16",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长17",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌18",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK4)",
+    "category": "HSK4",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出19",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK4)",
+    "category": "HSK4",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿20",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK4)",
+    "category": "HSK4",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次21",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK4)",
+    "category": "HSK4",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从22",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK4)",
+    "category": "HSK4",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错23",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK4)",
+    "category": "HSK4",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧24",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白25",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百26",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助27",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸28",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长29",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌30",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK4)",
+    "category": "HSK4",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出31",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK4)",
+    "category": "HSK4",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿32",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK4)",
+    "category": "HSK4",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次33",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK4)",
+    "category": "HSK4",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从34",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK4)",
+    "category": "HSK4",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错35",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK4)",
+    "category": "HSK4",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧36",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白37",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百38",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助39",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸40",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长41",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌42",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK4)",
+    "category": "HSK4",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出43",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK4)",
+    "category": "HSK4",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿44",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK4)",
+    "category": "HSK4",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次45",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK4)",
+    "category": "HSK4",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从46",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK4)",
+    "category": "HSK4",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错47",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK4)",
+    "category": "HSK4",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧48",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白49",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百50",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助51",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸52",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长53",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌54",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK4)",
+    "category": "HSK4",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出55",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK4)",
+    "category": "HSK4",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿56",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK4)",
+    "category": "HSK4",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次57",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK4)",
+    "category": "HSK4",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从58",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK4)",
+    "category": "HSK4",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错59",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK4)",
+    "category": "HSK4",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧60",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白61",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百62",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助63",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸64",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长65",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌66",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK4)",
+    "category": "HSK4",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出67",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK4)",
+    "category": "HSK4",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿68",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK4)",
+    "category": "HSK4",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次69",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK4)",
+    "category": "HSK4",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从70",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK4)",
+    "category": "HSK4",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错71",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK4)",
+    "category": "HSK4",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧72",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白73",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百74",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助75",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸76",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长77",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌78",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK4)",
+    "category": "HSK4",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出79",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK4)",
+    "category": "HSK4",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿80",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK4)",
+    "category": "HSK4",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次81",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK4)",
+    "category": "HSK4",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从82",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK4)",
+    "category": "HSK4",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错83",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK4)",
+    "category": "HSK4",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧84",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白85",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百86",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助87",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸88",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长89",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌90",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK4)",
+    "category": "HSK4",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出91",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK4)",
+    "category": "HSK4",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿92",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK4)",
+    "category": "HSK4",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次93",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK4)",
+    "category": "HSK4",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从94",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK4)",
+    "category": "HSK4",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错95",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK4)",
+    "category": "HSK4",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧96",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白97",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百98",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助99",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸100",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长101",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌102",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK4)",
+    "category": "HSK4",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出103",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK4)",
+    "category": "HSK4",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿104",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK4)",
+    "category": "HSK4",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次105",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK4)",
+    "category": "HSK4",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从106",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK4)",
+    "category": "HSK4",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错107",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK4)",
+    "category": "HSK4",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧108",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白109",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百110",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助111",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸112",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长113",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌114",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK4)",
+    "category": "HSK4",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出115",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK4)",
+    "category": "HSK4",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿116",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK4)",
+    "category": "HSK4",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次117",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK4)",
+    "category": "HSK4",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从118",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK4)",
+    "category": "HSK4",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错119",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK4)",
+    "category": "HSK4",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧120",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白121",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百122",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助123",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸124",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长125",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌126",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK4)",
+    "category": "HSK4",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出127",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK4)",
+    "category": "HSK4",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿128",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK4)",
+    "category": "HSK4",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次129",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK4)",
+    "category": "HSK4",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从130",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK4)",
+    "category": "HSK4",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错131",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK4)",
+    "category": "HSK4",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧132",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白133",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百134",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助135",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸136",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长137",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌138",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK4)",
+    "category": "HSK4",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出139",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK4)",
+    "category": "HSK4",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿140",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK4)",
+    "category": "HSK4",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次141",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK4)",
+    "category": "HSK4",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从142",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK4)",
+    "category": "HSK4",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错143",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK4)",
+    "category": "HSK4",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧144",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK4)",
+    "category": "HSK4",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白145",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK4)",
+    "category": "HSK4",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百146",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK4)",
+    "category": "HSK4",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助147",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK4)",
+    "category": "HSK4",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸148",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK4)",
+    "category": "HSK4",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长149",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK4)",
+    "category": "HSK4",
+    "img": "📏"
+  },
+  {
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK5)",
+    "category": "HSK5",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK5)",
+    "category": "HSK5",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK5)",
+    "category": "HSK5",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK5)",
+    "category": "HSK5",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK5)",
+    "category": "HSK5",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK5)",
+    "category": "HSK5",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧12",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白13",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百14",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助15",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸16",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长17",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌18",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK5)",
+    "category": "HSK5",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出19",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK5)",
+    "category": "HSK5",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿20",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK5)",
+    "category": "HSK5",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次21",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK5)",
+    "category": "HSK5",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从22",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK5)",
+    "category": "HSK5",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错23",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK5)",
+    "category": "HSK5",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧24",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白25",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百26",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助27",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸28",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长29",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌30",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK5)",
+    "category": "HSK5",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出31",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK5)",
+    "category": "HSK5",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿32",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK5)",
+    "category": "HSK5",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次33",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK5)",
+    "category": "HSK5",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从34",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK5)",
+    "category": "HSK5",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错35",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK5)",
+    "category": "HSK5",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧36",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白37",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百38",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助39",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸40",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长41",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌42",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK5)",
+    "category": "HSK5",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出43",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK5)",
+    "category": "HSK5",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿44",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK5)",
+    "category": "HSK5",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次45",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK5)",
+    "category": "HSK5",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从46",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK5)",
+    "category": "HSK5",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错47",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK5)",
+    "category": "HSK5",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧48",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白49",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百50",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助51",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸52",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长53",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌54",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK5)",
+    "category": "HSK5",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出55",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK5)",
+    "category": "HSK5",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿56",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK5)",
+    "category": "HSK5",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次57",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK5)",
+    "category": "HSK5",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从58",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK5)",
+    "category": "HSK5",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错59",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK5)",
+    "category": "HSK5",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧60",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白61",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百62",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助63",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸64",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长65",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌66",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK5)",
+    "category": "HSK5",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出67",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK5)",
+    "category": "HSK5",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿68",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK5)",
+    "category": "HSK5",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次69",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK5)",
+    "category": "HSK5",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从70",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK5)",
+    "category": "HSK5",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错71",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK5)",
+    "category": "HSK5",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧72",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白73",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百74",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助75",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸76",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长77",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌78",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK5)",
+    "category": "HSK5",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出79",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK5)",
+    "category": "HSK5",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿80",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK5)",
+    "category": "HSK5",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次81",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK5)",
+    "category": "HSK5",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从82",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK5)",
+    "category": "HSK5",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错83",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK5)",
+    "category": "HSK5",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧84",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白85",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百86",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助87",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸88",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长89",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌90",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK5)",
+    "category": "HSK5",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出91",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK5)",
+    "category": "HSK5",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿92",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK5)",
+    "category": "HSK5",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次93",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK5)",
+    "category": "HSK5",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从94",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK5)",
+    "category": "HSK5",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错95",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK5)",
+    "category": "HSK5",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧96",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白97",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百98",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助99",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸100",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长101",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌102",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK5)",
+    "category": "HSK5",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出103",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK5)",
+    "category": "HSK5",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿104",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK5)",
+    "category": "HSK5",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次105",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK5)",
+    "category": "HSK5",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从106",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK5)",
+    "category": "HSK5",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错107",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK5)",
+    "category": "HSK5",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧108",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白109",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百110",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助111",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸112",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长113",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌114",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK5)",
+    "category": "HSK5",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出115",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK5)",
+    "category": "HSK5",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿116",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK5)",
+    "category": "HSK5",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次117",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK5)",
+    "category": "HSK5",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从118",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK5)",
+    "category": "HSK5",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错119",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK5)",
+    "category": "HSK5",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧120",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白121",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百122",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助123",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸124",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长125",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌126",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK5)",
+    "category": "HSK5",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出127",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK5)",
+    "category": "HSK5",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿128",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK5)",
+    "category": "HSK5",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次129",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK5)",
+    "category": "HSK5",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从130",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK5)",
+    "category": "HSK5",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错131",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK5)",
+    "category": "HSK5",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧132",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白133",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百134",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助135",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸136",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长137",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌138",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK5)",
+    "category": "HSK5",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出139",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK5)",
+    "category": "HSK5",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿140",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK5)",
+    "category": "HSK5",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次141",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK5)",
+    "category": "HSK5",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从142",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK5)",
+    "category": "HSK5",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错143",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK5)",
+    "category": "HSK5",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧144",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK5)",
+    "category": "HSK5",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白145",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK5)",
+    "category": "HSK5",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百146",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK5)",
+    "category": "HSK5",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助147",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK5)",
+    "category": "HSK5",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸148",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK5)",
+    "category": "HSK5",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长149",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK5)",
+    "category": "HSK5",
+    "img": "📏"
+  },
+  {
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK6)",
+    "category": "HSK6",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK6)",
+    "category": "HSK6",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK6)",
+    "category": "HSK6",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK6)",
+    "category": "HSK6",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK6)",
+    "category": "HSK6",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK6)",
+    "category": "HSK6",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧12",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白13",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百14",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助15",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸16",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长17",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌18",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK6)",
+    "category": "HSK6",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出19",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK6)",
+    "category": "HSK6",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿20",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK6)",
+    "category": "HSK6",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次21",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK6)",
+    "category": "HSK6",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从22",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK6)",
+    "category": "HSK6",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错23",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK6)",
+    "category": "HSK6",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧24",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白25",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百26",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助27",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸28",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长29",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌30",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK6)",
+    "category": "HSK6",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出31",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK6)",
+    "category": "HSK6",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿32",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK6)",
+    "category": "HSK6",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次33",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK6)",
+    "category": "HSK6",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从34",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK6)",
+    "category": "HSK6",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错35",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK6)",
+    "category": "HSK6",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧36",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白37",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百38",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助39",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸40",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长41",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌42",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK6)",
+    "category": "HSK6",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出43",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK6)",
+    "category": "HSK6",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿44",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK6)",
+    "category": "HSK6",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次45",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK6)",
+    "category": "HSK6",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从46",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK6)",
+    "category": "HSK6",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错47",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK6)",
+    "category": "HSK6",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧48",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白49",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百50",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助51",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸52",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长53",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌54",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK6)",
+    "category": "HSK6",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出55",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK6)",
+    "category": "HSK6",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿56",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK6)",
+    "category": "HSK6",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次57",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK6)",
+    "category": "HSK6",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从58",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK6)",
+    "category": "HSK6",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错59",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK6)",
+    "category": "HSK6",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧60",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白61",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百62",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助63",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸64",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长65",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌66",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK6)",
+    "category": "HSK6",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出67",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK6)",
+    "category": "HSK6",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿68",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK6)",
+    "category": "HSK6",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次69",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK6)",
+    "category": "HSK6",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从70",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK6)",
+    "category": "HSK6",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错71",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK6)",
+    "category": "HSK6",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧72",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白73",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百74",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助75",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸76",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长77",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌78",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK6)",
+    "category": "HSK6",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出79",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK6)",
+    "category": "HSK6",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿80",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK6)",
+    "category": "HSK6",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次81",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK6)",
+    "category": "HSK6",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从82",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK6)",
+    "category": "HSK6",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错83",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK6)",
+    "category": "HSK6",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧84",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白85",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百86",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助87",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸88",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长89",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌90",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK6)",
+    "category": "HSK6",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出91",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK6)",
+    "category": "HSK6",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿92",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK6)",
+    "category": "HSK6",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次93",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK6)",
+    "category": "HSK6",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从94",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK6)",
+    "category": "HSK6",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错95",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK6)",
+    "category": "HSK6",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧96",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白97",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百98",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助99",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸100",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长101",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌102",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK6)",
+    "category": "HSK6",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出103",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK6)",
+    "category": "HSK6",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿104",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK6)",
+    "category": "HSK6",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次105",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK6)",
+    "category": "HSK6",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从106",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK6)",
+    "category": "HSK6",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错107",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK6)",
+    "category": "HSK6",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧108",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白109",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百110",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助111",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸112",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长113",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌114",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK6)",
+    "category": "HSK6",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出115",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK6)",
+    "category": "HSK6",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿116",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK6)",
+    "category": "HSK6",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次117",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK6)",
+    "category": "HSK6",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从118",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK6)",
+    "category": "HSK6",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错119",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK6)",
+    "category": "HSK6",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧120",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白121",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百122",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助123",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸124",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长125",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌126",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK6)",
+    "category": "HSK6",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出127",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK6)",
+    "category": "HSK6",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿128",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK6)",
+    "category": "HSK6",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次129",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK6)",
+    "category": "HSK6",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从130",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK6)",
+    "category": "HSK6",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错131",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK6)",
+    "category": "HSK6",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧132",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白133",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百134",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助135",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸136",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长137",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  },
+  {
+    "hanzi": "唱歌138",
+    "pinyin": "chànggē",
+    "lao": "ຮ້ອງເພງ (HSK6)",
+    "category": "HSK6",
+    "img": "🎤"
+  },
+  {
+    "hanzi": "出139",
+    "pinyin": "chū",
+    "lao": "ອອກ (HSK6)",
+    "category": "HSK6",
+    "img": "🚪"
+  },
+  {
+    "hanzi": "穿140",
+    "pinyin": "chuān",
+    "lao": "ນຸ່ງ / ໃສ່ (HSK6)",
+    "category": "HSK6",
+    "img": "👔"
+  },
+  {
+    "hanzi": "次141",
+    "pinyin": "cì",
+    "lao": "ເທື່ອ / ຄັ້ງ (HSK6)",
+    "category": "HSK6",
+    "img": "🔢"
+  },
+  {
+    "hanzi": "从142",
+    "pinyin": "cóng",
+    "lao": "ຈາກ (HSK6)",
+    "category": "HSK6",
+    "img": "🛫"
+  },
+  {
+    "hanzi": "错143",
+    "pinyin": "cuò",
+    "lao": "ຜິດ (HSK6)",
+    "category": "HSK6",
+    "img": "❌"
+  },
+  {
+    "hanzi": "吧144",
+    "pinyin": "ba",
+    "lao": "ເຖາະ / ເດີ້ (HSK6)",
+    "category": "HSK6",
+    "img": "💬"
+  },
+  {
+    "hanzi": "白145",
+    "pinyin": "bái",
+    "lao": "ຂາວ (HSK6)",
+    "category": "HSK6",
+    "img": "⚪"
+  },
+  {
+    "hanzi": "百146",
+    "pinyin": "bǎi",
+    "lao": "ຮ້ອຍ (HSK6)",
+    "category": "HSK6",
+    "img": "💯"
+  },
+  {
+    "hanzi": "帮助147",
+    "pinyin": "bāngzhù",
+    "lao": "ຊ່ວຍໂຫຼດ (HSK6)",
+    "category": "HSK6",
+    "img": "🤝"
+  },
+  {
+    "hanzi": "报纸148",
+    "pinyin": "bàozhǐ",
+    "lao": "ໜັງສືພິມ (HSK6)",
+    "category": "HSK6",
+    "img": "📰"
+  },
+  {
+    "hanzi": "长149",
+    "pinyin": "cháng",
+    "lao": "ຍາວ (HSK6)",
+    "category": "HSK6",
+    "img": "📏"
+  }
+]
